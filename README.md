@@ -1,15 +1,14 @@
-# Project1(Event Finder+)
+# (Event Sync)
 
 ### Description
-Project 1 is the first JHU Bootcamp team project collaboration, focused on: html, css, javascript, use of local storage, and responsive web design. The title of our innovative project idea is Event Finder+.  It is an application that allows a user to search and find upcoming events and local breweries near the venue. This app will run in the browser and feature dynamically updated HTML, CSS, and javascript. This application emphasizes the use of server-side APIs to get information from commercially-available sources and interact with user input data to generate the event, brewery, and map details.
+Event Sync is a collaborative project aimed at creating a user-friendly event-finding application for college students. This app allows users to search for upcoming events and nearby breweries, using APIs like Ticketmaster and Open Brewery for data. It’s built with HTML, CSS, and JavaScript, featuring responsive design and dynamic content updates.
 
 ## Feature List:
 
 * User can see the top five events list.
 * User can view the details about date, time, and venue.
 * User can view local breweries on a map with links to the breweries.
-* User can view the event image and stadium map.
-* User have direct access to buy tickets.
+* User have direct access to make a purchase
 
 ## Resources:
 
