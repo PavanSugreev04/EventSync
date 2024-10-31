@@ -1,7 +1,11 @@
-# (Event Sync)
+<h1 align="center" id="title">EventSync</h1>
 
-### Description
-Event Sync is a collaborative project aimed at creating a user-friendly event-finding application for college students. This app allows users to search for upcoming events and nearby breweries, using APIs like Ticketmaster and Open Brewery for data. It’s built with HTML, CSS, and JavaScript, featuring responsive design and dynamic content updates.
+<p align="center"><img src="https://eventsync.org/wp-content/uploads/2024/04/cropped-event-sync-logo-black.png" alt="EventSync Logo" width="90" height="90"></p>
+
+<p id="description">Event Sync is a collaborative project aimed at creating a user-friendly event-finding application for college students. This app allows users to search for upcoming events and nearby breweries, using APIs like Ticketmaster and Open Brewery for data. It’s built with HTML, CSS, and JavaScript, featuring responsive design and dynamic content updates.</p>
+
+<h2>🚀 Demo</h2>
+(https://event-sync-nine.vercel.app)
 
 ## Feature List:
 
@@ -25,8 +29,8 @@ The local storage is used here to store previous searched events up to three. If
 
 ## Links :
 
-* Link for the deployed application [Event FInder+](https://jhu-project1.github.io/Project1)
-* Link for the Github repository [Host by Github](https://github.com/JHU-Project1/Project1)
+* Link for the deployed application [Event Sync](https://event-sync-nine.vercel.app)
+* Link for the Github repository [Host by Github](https://github.com/PavanSugreev04/EventSync.git))
 
 
 - - -
